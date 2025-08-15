@@ -27,7 +27,7 @@
 
 ## 🎥 Demo GIF
 
-![Demo](assets/demo.gif)
+![Demo](photo_editor_demo.gif)
 
 ---
 
