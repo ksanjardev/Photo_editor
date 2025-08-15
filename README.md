@@ -54,4 +54,4 @@ You can download the latest **APK** from the [Releases](photo_editor.apk) here.
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/photomaster.git
+git clone https://github.com/ksanjardev/Photo_editor.git
