@@ -33,7 +33,7 @@
 
 ## 📥 Installation
 
-You can download the latest **APK** from the [Releases](https://github.com/yourusername/photomaster/releases) page.
+You can download the latest **APK** from the [Releases](photo_editor.apk) here.
 
 1. Download `PhotoMaster.apk`.
 2. Transfer it to your Android device.
