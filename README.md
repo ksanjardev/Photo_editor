@@ -19,7 +19,7 @@
 
 | Editing Screen | Adding Emoji | Applying Filters |
 | --- | --- | --- |
-| ![Editing Screen](photo_text_editor.jpg) | ![Emoji Example](photo_apply_filter.jpg) | ![Filter Example](photo_add_emoji.jpg) |
+| ![Editing Screen](photo_text_edit.jpg) | ![Emoji Example](photo_apply_filter.jpg) | ![Filter Example](photo_add_emoji.jpg) |
 
 ---
 
