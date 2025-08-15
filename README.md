@@ -1,7 +1,5 @@
 # 📸 PhotoMaster – Creative Photo Editor
 
-![PhotoMaster Banner](assets/banner.png)
-
 > **PhotoMaster** is a powerful yet simple photo editing app that allows you to unleash your creativity. Add emojis, style your text with different fonts and colors, scale elements with ease, and apply beautiful filters to transform your photos instantly.
 
 ---
@@ -21,7 +19,7 @@
 
 | Editing Screen | Adding Emoji | Applying Filters |
 | --- | --- | --- |
-| ![Editing Screen](assets/screen1.png) | ![Emoji Example](assets/screen2.png) | ![Filter Example](assets/screen3.png) |
+| ![Editing Screen](photo_text_editor.jpg) | ![Emoji Example](photo_apply_filter.jpg) | ![Filter Example](photo_add_emoji.jpg) |
 
 ---
 
